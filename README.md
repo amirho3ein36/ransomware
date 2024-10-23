@@ -1,0 +1,2 @@
+# ransomware
+RANSOMWARE ALL OS 
