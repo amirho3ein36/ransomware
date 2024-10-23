@@ -1,4 +1,4 @@
-# ransomware
+
 1-  INSTALL PYTHON
 2- pip install -r requirements.txt
 3- use -e (encryption)
